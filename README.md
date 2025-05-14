@@ -8,14 +8,6 @@ nuScenes 数据集已成为当前自动驾驶感知算法领域的主流基准�
 git clone http://git.51vr.local/gaofeng/sensorverification.git
 ```
 
-clone到本地，并切换到master分支
-```shell
-cd sensorverification
-git checkout master
-git branch 
-git pull
-```
-
 ## simone数据生成
 在`simone_nuscenes_final_version/simone_config`目录下准备了符合nuScenes数据采集标准的主车配置文件与若干用于测试的回放案例，具体内容与解释如下：
 ```shell
