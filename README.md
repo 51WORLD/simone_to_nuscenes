@@ -5,7 +5,7 @@ nuScenes 数据集已成为当前自动驾驶感知算法领域的主流基准�
 
 ## Installation
 ```shell
-git clone http://git.51vr.local/gaofeng/sensorverification.git
+git clone https://github.com/51WORLD/simone_to_nuscenes.git
 ```
 
 ## simone数据生成
