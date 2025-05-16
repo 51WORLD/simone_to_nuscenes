@@ -2,6 +2,7 @@
 
 ## Introduction
 nuScenes 数据集已成为当前自动驾驶感知算法领域的主流基准数据集，该脚本的目的是将 simone 直接 dump 出的原始数据转换为 nuScenes 格式，以方便地接入不同的感知算法 pipeline 中，进行3D目标检测、目标跟踪、车道线检测等感知任务。
+基于该转换工具生成的样例数据集可以通过 https://huggingface.co/datasets/51WORLD/DataOne-synthetic-nuscenes-v1.1-sample 获取
 
 ## Installation
 ```shell
